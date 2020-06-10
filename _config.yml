@@ -27,7 +27,7 @@ github_username:  emmetlockhart
 # Build settings
 markdown: kramdown
 remote_theme: chesterhow/tale
-permalink:    /:year-:month/:title
+permalink:    /:year/:month/:title
 paginate:     5
 
 include:
